@@ -1,0 +1,70 @@
+body {
+  border: 15px solid #00c7cb;
+  font-size: 20px;
+}
+
+header h1 {
+  text-align: center;
+  color: gray;
+  font-size: 30px;
+}
+.content {
+  width: 90%;
+  margin: 0 auto;
+}
+
+header .header {
+  padding: 80px 100px;
+
+  background: #84fed4;
+}
+header .header:hover {
+  background: #d9af7c;
+}
+.title {
+  padding: 100px 100px;
+  background: #304f4f;
+  color: #20c2c4;
+}
+.another h1 {
+  font-size: 30px;
+  color: grey;
+  text-transform: uppercase;
+}
+.title:hover {
+  background: #5e5e5e;
+}
+.another h1:hover {
+  text-decoration: none;
+  letter-spacing: 2px;
+  padding-left: 5%;
+  padding-right: 5%;
+  text-transform: lowercase;
+  text-transform: capitalize;
+  color: #ff8100;
+}
+.another div:hover {
+  color: #ff8100;
+}
+
+.another div p {
+  letter-spacing: 2px;
+}
+.another {
+  padding-top: 40px;
+}
+
+nav img:first-child {
+  margin-left: 0px;
+}
+nav img:last-child {
+  margin-right: 0px;
+}
+nav img {
+  margin-right: 9%;
+  margin-bottom: 100px;
+  margin-top: 100px;
+}
+nav img:hover {
+  border: 5px dotted #ff8100;
+}
